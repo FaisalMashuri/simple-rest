@@ -1,0 +1,8 @@
+{
+    "DB_USERNAME" : "user",
+    "DB_PASSWORD" : "user",
+    "DB_PORT" : "3306",
+    "DB_HOST" : "localhost",
+    "DB_NAME" : "echo_rest",
+    "DB_TYPE" : "mysql"
+}
